@@ -153,6 +153,4 @@ REACT_APP_STRIPE_PUBLISHABLE_KEY=your-stripe-publishable-key
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-MIT License 
+ 
